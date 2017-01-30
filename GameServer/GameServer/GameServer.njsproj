@@ -44,11 +44,17 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="bin\" />
+    <Folder Include="contents\" />
+    <Folder Include="scripts\" />
     <Folder Include="public\" />
     <Folder Include="public\images\" />
     <Folder Include="public\javascripts\" />
     <Folder Include="public\stylesheets\" />
     <Folder Include="routes\" />
+    <Folder Include="scripts\cores\" />
+    <Folder Include="scripts\cores\db\" />
+    <Folder Include="scripts\cores\socketio\" />
+    <Folder Include="scripts\utils\" />
     <Folder Include="typings\" />
     <Folder Include="typings\globals\" />
     <Folder Include="typings\globals\body-parser\" />
